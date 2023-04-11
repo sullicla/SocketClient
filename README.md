@@ -3,7 +3,7 @@
 
 ### Screenshot of submission:
 
-![Screenshot 2023-04-10 161748.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-04-10%20161748.png)
+![img.png](img.png)
 
 ### Write a Java app that will
 - Connect to a server (command-line parameter) on a port (2nd command-line parameter)
