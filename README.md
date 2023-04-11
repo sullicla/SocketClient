@@ -3,7 +3,7 @@
 
 ### Screenshot of submission:
 
-![img.png](img.png)
+![img.png](C:\Users\sulli\Documents\INFO314\SocketClient\img.png)
 
 ### Write a Java app that will
 - Connect to a server (command-line parameter) on a port (2nd command-line parameter)
