@@ -3,7 +3,7 @@
 
 ### Screenshot of submission:
 
-![Screenshot 2023-04-10 161748.png](Screenshot%202023-04-10%20161748.png "Console Output")
+![SocketSubmissionScreenshot](https://user-images.githubusercontent.com/72422505/231063436-bfe935d3-896a-4174-92e2-6a80fb744db1.png)
 
 ### Write a Java app that will
 - Connect to a server (command-line parameter) on a port (2nd command-line parameter)
