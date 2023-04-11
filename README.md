@@ -3,7 +3,8 @@
 
 ### Screenshot of submission:
 
-<img src="img.png">
+[//]: # (<img src="img.png">)
+![Screenshot 2023-04-10 161748.png](Screenshot%202023-04-10%20161748.png)
 
 ### Write a Java app that will
 - Connect to a server (command-line parameter) on a port (2nd command-line parameter)
